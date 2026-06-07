@@ -1,7 +1,7 @@
-#Project Name:
+# Project Name:
 * portofolio
   
-#Discription
+# Discription
 * This is a portofolio that represent three projects (RainyDays project, JavaScript project, and Exam project that includes an online store project)
 * The first project Cross Course Project- RainyDays:
    GitHub link:  https://github.com/Shefaa62/RainyDays
@@ -15,10 +15,10 @@
 
  * This portofolio also includes cv.pdf and cover-letter.pdf that shows litt about me (Shefaa Al Sayed)
 
-#Teknologis:
+# Teknologis:
 * HTML,CSS
 
-#Author:
+# Author:
 * Shefaa Al Sayed
 
 

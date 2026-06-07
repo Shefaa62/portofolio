@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section {
+    min-height: 100vh;
+    padding: 80px 20px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.card img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 15px;
+}
+

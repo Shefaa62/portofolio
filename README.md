@@ -1,5 +1,6 @@
 #Project Name:
 * portofolio
+  
 #Discription
 * This is a portofolio that represent three projects (RainyDays project, JavaScript project, and Exam project that includes an online store project)
 * The first project Cross Course Project- RainyDays:
@@ -13,8 +14,10 @@
    This project is a comprehensive development process where design, planning, and implementation are integrated into a single web application for an online   store.
 
  * This portofolio also includes cv.pdf and cover-letter.pdf that shows litt about me (Shefaa Al Sayed)
+
 #Teknologis:
 * HTML,CSS
+
 #Author:
 * Shefaa Al Sayed
 
